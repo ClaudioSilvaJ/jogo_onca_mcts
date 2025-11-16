@@ -1,4 +1,4 @@
-````markdown
+
 # Jogo da Onça – Bot com Monte Carlo
 
 Implementação de um bot para o **Jogo da Onça**, utilizando um controlador em Python
